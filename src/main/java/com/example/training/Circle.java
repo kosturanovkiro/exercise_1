@@ -19,7 +19,7 @@ public class Circle extends Shape{
 
     @Override
     public double calculateArea(){
-        return 3.14*this.r*this.r;
+        return 3.14*r*r;
     }
     @Override
     public double calculateCircumference(){
